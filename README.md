@@ -3,8 +3,8 @@
 **Robotics Enthusiast | AI Explorer | Problem Solver**
 
 I’m an Electrical Engineering and Computer Science student passionate about robotics and AI (GPA: 3.847/4.0). I love building innovative solutions and exploring the intersection of hardware and software.
----
 
+---
 ### 🚀 About Me
 - 🌱 Currently focused on SLAM, path planning, and robotics research.
 - 🧠 Proposed a **New SLAM-Based Exploration Strategy**: Developed an innovative exploration strategy using the intersection of forward semi-planes for optimized navigation. A manuscript is in preparation for submission to a peer-reviewed journal.
