@@ -1,6 +1,6 @@
 # Omar Mostafa
 
-**Robotics Enthusiast | AI Explorer | Problem Solver**
+**Robotics Enthusiast | Problem Solver**
 
 I’m an Electrical Engineering and Computer Science student passionate about robotics and AI (GPA: 3.847/4.0). I love building innovative solutions and exploring the intersection of hardware and software.
 
